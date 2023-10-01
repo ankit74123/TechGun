@@ -1,0 +1,29 @@
+Section_1(Introduction to this Course)                                                                                                #08.12.2022(Thursday)             
+======================================                                                                                                #23.12.2022(Friday)
+Introduction to HTML                                                                                                                  #21.01.2023(Saturday)
+--------------------                                                                                                                  #01.02.2023(Wednesday)                                                                                     
+08:30 Mins                                                                                                                            #01.10.2023(Sunday)
+
+Course Details
+==============
+1.HTML
+2.CSS
+3.Project(Website Design)
+
+-- Every Website is HTML and CSS
+-- HTML --> Structure(Bone)
+-- CSS  --> Style    (Skin,Muscles)
+-- Examples of Facebook page.
+
+-- Software or Tool Required
+   -------------------------
+   1.)Web Browser (Google Chrome,Internet Explorer, Safari,Mozilla Firefox,Opera Mini)
+   2.)Text Editor (VS Code,Notepad++,Atom,Sublime Text ,Brackets)
+
+-- Download VS Code (Recommended)
+-- Simple and powerful editor
+   https://code.visualstudio.com/
+
+==============
+              #Completed
+                  
