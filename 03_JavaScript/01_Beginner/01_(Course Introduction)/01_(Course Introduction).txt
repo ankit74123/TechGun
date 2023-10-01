@@ -1,0 +1,30 @@
+01_Course Introductionn                                                                                                               #24.12.2022(Saturday)
+=======================                                                                                                               #03.04.2023(Monday)
+Vishwajit Sir                                                                                                                         #09.04.2023(Sunday)
+=============                                                                                                                         #01.10.2023(Sunday)
+
+00:00 00:02 Mins
+
+-- HTML 4 Hours
+-- CSS 9 Hours
+-- Depth JavaScript
+-- JavaScript Basic
+-- Object
+-- HTML5 Features
+-- Error Handling
+-- Testing 
+-- Debugging
+-- ES5,ES6,ES7,ES8
+-- JSON
+-- Regular Expression
+-- AJAX
+-- WEB API
+-- Project
+-- Games
+-- Video Tutorial is big.
+-- Ek hi playlist
+-- Compile
+-- It is lengthy
+
+==============
+              #Completed
