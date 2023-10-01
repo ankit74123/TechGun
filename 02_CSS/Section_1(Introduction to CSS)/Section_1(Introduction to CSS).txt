@@ -3,7 +3,7 @@ Introduction to CSS                                                             
 00:00 -- 00:07 Mins                                                                                                                   #01.02.2023(Wednesday)
                                                                                                                                       #05.03.2023(Sunday)
 CSS                                                                                                                                   #18.09.2023(Monday)
-===
+===                                                                                                                                   #01.10.2023(Sunday)
 -- Cascading Style Sheet
 -- CSS describes how HTML elements are to be displayed on screen,paper or in other media.
 -- HTML: What to Display
